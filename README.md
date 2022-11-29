@@ -1,1 +1,17 @@
 # My-Projects
+
+# https://arina2246.github.io/virtual-keyboard/src/index.html
+Virtual Keyboard with ability to switch between
+two language layouts. Working with DOM and
+Events (JS)
+
+#https://rolling-scopes-school.github.io/arina2246-JSFE2022Q1/Online-Store/index.bundle.html
+Online Store with sorting, filtering and searching
+functionality (JS + TypeScript)
+
+# https://leonid-niselovsky.github.io/rslang/dist/index.html
+RS Lang is an application for learning foreign
+words, including an electronic textbook with a base
+of words for learning, mini-games for repeating
+them (Group project). (JS + TypeScript + working
+with API)
