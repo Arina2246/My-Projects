@@ -5,7 +5,7 @@ Virtual Keyboard with ability to switch between
 two language layouts. Working with DOM and
 Events (JS)
 
-#https://rolling-scopes-school.github.io/arina2246-JSFE2022Q1/Online-Store/index.bundle.html
+# https://rolling-scopes-school.github.io/arina2246-JSFE2022Q1/Online-Store/index.bundle.html
 Online Store with sorting, filtering and searching
 functionality (JS + TypeScript)
 
