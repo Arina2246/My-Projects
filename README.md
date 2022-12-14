@@ -1,6 +1,6 @@
 # My-Projects
 
-# https://arina2246.github.io/virtual-keyboard/src/index.html
+# https://arina2246.github.io/Virtual-keyboard1/dist/
 Virtual Keyboard with ability to switch between
 two language layouts. Working with DOM and
 Events (JS)
