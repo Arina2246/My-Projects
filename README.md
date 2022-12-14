@@ -3,7 +3,7 @@
 # https://arina2246.github.io/Virtual-keyboard1/dist/
 Virtual Keyboard with ability to switch between
 two language layouts. Working with DOM and
-Events (JS)
+Events (TS + JS)
 
 # https://rolling-scopes-school.github.io/arina2246-JSFE2022Q1/Online-Store/index.bundle.html
 Online Store with sorting, filtering and searching
