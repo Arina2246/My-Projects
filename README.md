@@ -15,3 +15,8 @@ words, including an electronic textbook with a base
 of words for learning, mini-games for repeating
 them (Group project). (JS + TypeScript + working
 with API)
+
+# https://rolling-scopes-school.github.io/arina2246-JSFE2022Q1/shelter/pages/main/index.html
+Shelter page with adaptive layout (CSS + JS)
+
+
