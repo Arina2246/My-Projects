@@ -9,6 +9,9 @@ Events (TS + JS)
 Online Store with sorting, filtering and searching
 functionality (JS + TypeScript)
 
+# https://arina2246.github.io/Rick-and-Morty/build/
+Rick-and-Morty app (React + TypeScript + Redux, Redux Toolkit)
+
 # https://leonid-niselovsky.github.io/rslang/dist/index.html
 RS Lang is an application for learning foreign
 words, including an electronic textbook with a base
