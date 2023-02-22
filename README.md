@@ -25,5 +25,8 @@ Shelter page with adaptive layout (CSS + JS)
 # https://arina2246.github.io/ToDo-List/build/index.html
 Simple ToDo-List with React and Redux
 
+# https://arina2246.github.io/cssSlider/cssSlider/
+Simple css Slider
+
 
 
