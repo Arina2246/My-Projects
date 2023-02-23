@@ -25,6 +25,9 @@ Shelter page with adaptive layout (CSS + JS)
 # https://arina2246.github.io/beautifulSlider/index.html
 Simple beautiful slider
 
+# https://arina2246.github.io/miniGame/index.html
+Simple mini-game
+
 # https://arina2246.github.io/ToDo-List/build/index.html
 Simple ToDo-List with React and Redux
 
