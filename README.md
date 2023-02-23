@@ -22,6 +22,9 @@ with API)
 # https://rolling-scopes-school.github.io/arina2246-JSFE2022Q1/shelter/pages/main/index.html
 Shelter page with adaptive layout (CSS + JS)
 
+# https://arina2246.github.io/beautifulSlider/index.html
+Simple beautiful slider
+
 # https://arina2246.github.io/ToDo-List/build/index.html
 Simple ToDo-List with React and Redux
 
