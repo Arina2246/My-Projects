@@ -19,23 +19,26 @@ of words for learning, mini-games for repeating
 them (Group project). (JS + TypeScript + working
 with API)
 
+# https://arina2246.github.io/AIMGame/
+Simple AIM Game (JS + CSS)
+
 # https://rolling-scopes-school.github.io/arina2246-JSFE2022Q1/shelter/pages/main/index.html
 Shelter page with adaptive layout (CSS + JS)
 
 # https://arina2246.github.io/beautifulSlider/index.html
-Simple beautiful slider
+Simple beautiful slider (JS + CSS)
 
 # https://arina2246.github.io/miniGame/index.html
-Simple mini-game
+Simple mini-game (JS + CSS)
 
 # https://arina2246.github.io/ToDo-List/build/index.html
 Simple ToDo-List with React and Redux
 
 # https://arina2246.github.io/cssSlider/cssSlider/
-Simple css Slider
+Simple css Slider (JS + CSS)
 
 # https://arina2246.github.io/simpleDragAndDrop/index.html
-Simple Drag and Drop
+Simple Drag and Drop (JS + CSS)
 
 
 
